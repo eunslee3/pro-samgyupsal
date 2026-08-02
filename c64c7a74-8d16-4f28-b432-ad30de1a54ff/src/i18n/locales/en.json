@@ -1,0 +1,237 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "contact": "Contact",
+    "brandName": "PRO SAMGYUPSAL",
+    "brandTagline": "Korean Barbeque"
+  },
+  "hero": {
+    "title": "Family. Fire. Flavor.",
+    "subtitle": "High-quality meats, grilled tableside — where first-timers become regulars.",
+    "viewMenu": "View Menu",
+    "reserve": "Reserve a Table"
+  },
+  "story": {
+    "title": "A Family Business, Rooted in Flavor.",
+    "quote": "We want people to feel at home here.",
+    "quoteAuthor": "— Becky Choi, Owner",
+    "paragraph1": "Pro Samgyupsal began as a dream to share authentic Korean BBQ with our community. Every cut of meat, every side dish, and every warm welcome comes from our family to yours. We believe the best meals are shared around a grill with the people you care about.",
+    "paragraph2": "From our tableside service to our carefully sourced ingredients, we treat every guest like family — because that's what we are."
+  },
+  "experience": {
+    "title": "How to Enjoy Korean BBQ",
+    "subtitle": "New to Korean BBQ? Let us guide you through the experience.",
+    "step1Title": "Grill Your Meat",
+    "step1Desc": "Watch as premium cuts sizzle on your personal tabletop grill, cooked to perfection.",
+    "step2Title": "Dip & Savor",
+    "step2Desc": "Enhance the flavor with sesame oil, ssamjang, or our house-made sauces.",
+    "step3Title": "Wrap & Enjoy",
+    "step3Desc": "Bundle your grilled meat in crisp lettuce or pickled radish for the perfect bite.",
+    "step4Title": "Share the Moment",
+    "step4Desc": "Korean BBQ is meant to be shared — gather around and create memories."
+  },
+  "meats": {
+    "title": "Our Premium Cuts",
+    "subtitle": "Hand-selected meats, sourced for quality and flavor.",
+    "porkBelly": {
+      "name": "Premium Pork Belly",
+      "korean": "삼겹살",
+      "desc": "Thick-cut, marbled perfection. Our signature cut."
+    },
+    "galbi": {
+      "name": "Galbi Short Rib",
+      "korean": "갈비",
+      "desc": "Tender, sweet, and savory beef short rib."
+    },
+    "bulgogi": {
+      "name": "Beef Bulgogi",
+      "korean": "불고기",
+      "desc": "Marinated thin-sliced beef, caramelized to perfection."
+    },
+    "spicyPork": {
+      "name": "Spicy Pork",
+      "korean": "제육볶음",
+      "desc": "Bold, spicy, and incredibly flavorful."
+    }
+  },
+  "communal": {
+    "title": "Best Enjoyed with Friends",
+    "description": "Bring your group and share the table. Korean BBQ is about connection, laughter, and creating memories around the grill.",
+    "cta": "Book for Groups"
+  },
+  "featured": {
+    "label": "As Featured On",
+    "title": "ABC 7 News Chicago",
+    "description": "Recognized as one of the best Korean BBQ experiences in the region. Our commitment to quality and authentic flavors has made us a local favorite."
+  },
+  "menuPreview": {
+    "title": "Menu Highlights",
+    "subtitle": "A taste of what awaits you at our table.",
+    "premiumCuts": "Premium Cuts",
+    "beefSpecials": "Beef & Pork Specials",
+    "classics": "Hearty Korean Classics",
+    "viewFullMenu": "View Full Menu",
+    "items": {
+      "primePorkBelly": "Prime Pork Belly",
+      "galbiShortRib": "Galbi Short Rib",
+      "wagyuBrisket": "Wagyu Beef Brisket",
+      "spicyPork": "Spicy Pork",
+      "bulgogiBeef": "Bulgogi Beef",
+      "marinatedChicken": "Marinated Chicken",
+      "kimchiJjigae": "Kimchi Jjigae",
+      "bibimbap": "Bibimbap",
+      "japchae": "Japchae"
+    }
+  },
+  "contact": {
+    "title": "Visit Us",
+    "subtitle": "Come share a meal with us",
+    "location": "Location",
+    "phone": "Phone",
+    "hours": "Hours",
+    "getInTouch": "Get in Touch",
+    "address": "3420 Milwaukee Ave\nNorthbrook, IL 60062",
+    "phoneNumber": "(847) 715-9073",
+    "schedule": "Mon-Sat: 4PM - 10:45PM\nSun: 4PM - 9:45PM"
+  },
+  "contactPage": {
+    "backToHome": "← Back to Home",
+    "title": "Get in Touch",
+    "subtitle": "Questions, reservations, or just curious about Korean BBQ? We'd love to hear from you.",
+    "tagline": "From our family to yours — we're happy to help.",
+    "sendMessage": "Send a Message",
+    "visitUs": "Visit Us",
+    "visitSubtitle": "Walk-ins welcome!",
+    "getDirections": "Get Directions",
+    "communityTitle": "We're a family-run restaurant — and every message goes straight to us.",
+    "communitySubtitle": "Whether it's your first Korean BBQ experience or your tenth, we're here to make it special.",
+    "communitySignature": "— The Choi Family",
+    "featuredLabel": "As Featured On",
+    "featuredTitle": "ABC 7 News Chicago",
+    "featuredDesc": "Recognized for authentic, high-quality Korean BBQ and family hospitality.",
+    "readFeature": "Read the full feature →",
+    "readyTitle": "Ready to dine with us?",
+    "reserveTable": "Reserve a Table",
+    "viewMenu": "View Menu",
+    "walkInsWelcome": "Walk-ins welcome — reservations recommended for groups."
+  },
+  "menuPage": {
+    "backToHome": "← Back to Home",
+    "title": "Our Menu",
+    "subtitle": "High-quality meats, prepared tableside — crafted for sharing.",
+    "tagline": "No appetizers, no desserts — just exceptional BBQ.",
+    "premiumCuts": "Premium Cuts",
+    "premiumSubtitle": "Our specialty — five unique pork cuts, prepared for perfect grilling.",
+    "beefSpecials": "Beef & Specials",
+    "beefSubtitle": "Signature Korean beef selections, cut and grilled for tenderness and flavor.",
+    "classics": "Hearty Korean Classics",
+    "classicsSubtitle": "Soups, stews, and noodles that complete your BBQ experience.",
+    "howToEnjoy": "How to Enjoy",
+    "howToEnjoySubtitle": "The dining ritual that makes Korean BBQ special.",
+    "drinks": "Drinks",
+    "drinksSubtitle": "Classic Korean drinks that pair perfectly with grilled meat.",
+    "bookTable": "Book a Table and Try It Yourself",
+    "featuredLabel": "As Featured On",
+    "featuredTitle": "ABC 7 News Chicago",
+    "featuredDesc": "Recognized for one of the best Korean BBQ experiences in the region.",
+    "items": {
+      "porkBelly": {
+        "name": "Pork Belly",
+        "korean": "삼겹살 (Samgyupsal)",
+        "desc": "Thick-cut, scored pork belly grilled to perfection."
+      },
+      "porkJowl": {
+        "name": "Premium Pork Jowl",
+        "korean": "항정살",
+        "desc": "Tender, marbled cut from the neck — rich and flavorful."
+      },
+      "porkShoulder": {
+        "name": "Pork Shoulder",
+        "korean": "목살",
+        "desc": "Well-marbled shoulder cut with deep, savory flavor."
+      },
+      "galbi": {
+        "name": "Galbi Short Rib",
+        "korean": "갈비",
+        "desc": "Tender, sweet, and savory beef short rib."
+      },
+      "bulgogi": {
+        "name": "Bulgogi",
+        "korean": "불고기",
+        "desc": "Marinated thin-sliced beef, caramelized to perfection."
+      },
+      "wagyuBrisket": {
+        "name": "Wagyu Brisket",
+        "korean": "와규 양지",
+        "desc": "Premium wagyu brisket with exceptional marbling."
+      },
+      "kimchiJjigae": {
+        "name": "Kimchi Jjigae",
+        "korean": "김치찌개",
+        "desc": "Spicy kimchi stew with pork and tofu."
+      },
+      "galbiTang": {
+        "name": "Galbi-Tang",
+        "korean": "갈비탕",
+        "desc": "Hearty short rib soup with radish and glass noodles."
+      },
+      "naengmyeon": {
+        "name": "Mul-Naengmyeon",
+        "korean": "물냉면",
+        "desc": "Cold buckwheat noodles in refreshing broth."
+      },
+      "bibimbap": {
+        "name": "Bibimbap",
+        "korean": "비빔밥",
+        "desc": "Mixed rice bowl with vegetables, egg, and gochujang."
+      },
+      "japchae": {
+        "name": "Japchae",
+        "korean": "잡채",
+        "desc": "Stir-fried glass noodles with vegetables."
+      },
+      "doenjangJjigae": {
+        "name": "Doenjang Jjigae",
+        "korean": "된장찌개",
+        "desc": "Savory soybean paste stew with vegetables."
+      }
+    },
+    "drinks": {
+      "makgeolli": {
+        "name": "Makgeolli",
+        "desc": "Traditional rice wine"
+      },
+      "soju": {
+        "name": "Soju",
+        "desc": "Classic Korean spirit"
+      },
+      "beer": {
+        "name": "Korean Beer",
+        "desc": "Cass, Hite, or OB"
+      },
+      "softDrinks": {
+        "name": "Soft Drinks",
+        "desc": "Coke, Sprite, or Calpico"
+      }
+    },
+    "steps": {
+      "grill": {
+        "title": "Grill Your Meat",
+        "desc": "Watch as premium cuts sizzle on your personal grill."
+      },
+      "dip": {
+        "title": "Dip in Sesame Oil",
+        "desc": "Enhance the flavor with our house-made sauces."
+      },
+      "wrap": {
+        "title": "Wrap & Enjoy",
+        "desc": "Bundle in crisp lettuce or pickled radish."
+      },
+      "share": {
+        "title": "Share the Moment",
+        "desc": "Korean BBQ is meant to be shared with loved ones."
+      }
+    }
+  }
+}
